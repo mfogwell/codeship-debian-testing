@@ -1,0 +1,5 @@
+production-image:
+  cached: true
+  build:
+    context: .
+    dockerfile: Dockerfile
