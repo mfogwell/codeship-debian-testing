@@ -1,3 +1,3 @@
 FROM debian:testing AS dev-env
 
-RUN ls -la
+RUN ls -l
